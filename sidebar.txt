@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cno:home|Door43 (cno)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cno|d43-cno repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cno/archive/master.zip|d43-cno.zip]]
+
+**Recent Changes**
+{{changes>ns = cno}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cno|Ethnologue data]]
+
